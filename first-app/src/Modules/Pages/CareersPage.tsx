@@ -45,7 +45,7 @@ const CareersPage=()=>{
                            <div className="row mt-4">
                               <div className="col-md-12">
                                  <h2 className="card-title fw-bold">Join Our Growing Team</h2>  
-                                 <p className="card-text">Join our team at Zentech   and embark on an exciting career in the world of technology sales and support. As the leading IT sales and support center in Belgrade, Serbia, we are committed to providing exceptional service to our customers, and we are always on the lookout for talented individuals who share our passion for technology and customer satisfaction.</p>    
+                                 <p className="card-text">Join our team at  Bluered Technology   and embark on an exciting career in the world of technology sales and support. As the leading IT sales and support center in Belgrade, Serbia, we are committed to providing exceptional service to our customers, and we are always on the lookout for talented individuals who share our passion for technology and customer satisfaction.</p>    
                               </div>
                            </div>
 
@@ -68,7 +68,7 @@ const CareersPage=()=>{
                                        </div>
                                        <div className="col-md-7">
                                           <p>
-                                          Each team member at Zentech  takes initiative to solve problems to ensure the success of our clients, our company, and each other. If there is a more efficient or effective way of doing something, we’ll find it.
+                                          Each team member at  Bluered Technology  takes initiative to solve problems to ensure the success of our clients, our company, and each other. If there is a more efficient or effective way of doing something, we’ll find it.
                                           </p>
                                        </div>
                                   </div>
@@ -89,7 +89,7 @@ const CareersPage=()=>{
                                        </div>
                                        <div className="col-md-7">
                                           <p>
-                                          Zentech  believes technology should be simple to use and easy to understand. Every solution we develop simplifies the complex in order to remove frustration and facilitate efficiency.
+                                           Bluered Technology  believes technology should be simple to use and easy to understand. Every solution we develop simplifies the complex in order to remove frustration and facilitate efficiency.
                                           </p>
                                        </div>
                                   </div>
@@ -102,7 +102,7 @@ const CareersPage=()=>{
                            <hr className="text-dark fw-bolder mt-4 mb-4" />
                            <div className="row mt-4">
                               <div className="col-md-12">
-                                 <h2 className="card-title fw-bold">Why Work at Zentech ?</h2>  
+                                 <h2 className="card-title fw-bold">Why Work at  Bluered Technology ?</h2>  
                                   <div className="row mt-3">
                                      <div className="col-md-6"> 
                                       <ul className="mb-0 pb-0">
@@ -245,8 +245,8 @@ const CareersPage=()=>{
                                                                 <div className="row mt-4">
                                                                     <div className="col-md-12">
                                                                         <h3 className="card-title fw-bold">How to Apply:  </h3>  
-                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@zentechconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
-                                                                        <p className="card-text">Join Zentech                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
+                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@ Bluered Technologyconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
+                                                                        <p className="card-text">Join  Bluered Technology                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
                                                                         <p className="card-text">We look forward to receiving your application and welcoming you to our team!</p>
                                                                     </div>
                                                                 </div>
@@ -346,8 +346,8 @@ const CareersPage=()=>{
                                                                 <div className="row mt-4">
                                                                     <div className="col-md-12">
                                                                         <h3 className="card-title fw-bold">How to Apply:  </h3>  
-                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@zentechconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
-                                                                        <p className="card-text">Join Zentech                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
+                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@ Bluered Technologyconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
+                                                                        <p className="card-text">Join  Bluered Technology                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
                                                                         <p className="card-text">We look forward to receiving your application and welcoming you to our team!</p>
                                                                     </div>
                                                                 </div>
@@ -446,8 +446,8 @@ const CareersPage=()=>{
                                                                 <div className="row mt-4">
                                                                     <div className="col-md-12">
                                                                         <h3 className="card-title fw-bold">How to Apply:  </h3>  
-                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@zentechconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
-                                                                        <p className="card-text">Join Zentech                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
+                                                                        <p className="card-text">If you are passionate about sales and customer service, we would love to hear from you. To submit your application, please send an email to  marjan@ Bluered Technologyconnect.com Please include your resume and a brief cover letter highlighting your relevant experience and why you would be a valuable addition to our team.</p>    
+                                                                        <p className="card-text">Join  Bluered Technology                      and embark on a rewarding career where you can make a difference in the lives of our customers through your dedication to service excellence.</p>
                                                                         <p className="card-text">We look forward to receiving your application and welcoming you to our team!</p>
                                                                     </div>
                                                                 </div>

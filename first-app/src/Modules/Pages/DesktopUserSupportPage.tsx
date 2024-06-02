@@ -225,7 +225,7 @@ const DesktopUserSupportPage=()=>{
          </div>
 
          <div className="container mt-4">
-           <h2 className="text-center">3 Reasons to Choose Zentech</h2>
+           <h2 className="text-center">3 Reasons to Choose  Bluered Technology</h2>
         <div className="row mt-5">
                  <div className="col-md-4">
                  <div className="row">
